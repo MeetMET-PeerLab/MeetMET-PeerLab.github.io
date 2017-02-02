@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peer Lab Here You Are"
+title:  "Contributor Covenant Code"
 date:   2017-02-03 00:12:39 +0800
 categories: Covenant CodeOfConduct
 ---
