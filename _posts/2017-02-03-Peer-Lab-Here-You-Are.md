@@ -29,6 +29,8 @@ I hope you guys will like this.
 
 PolyU Innovation Tower (V)
 
+![Credit to https://commons.wikimedia.org/wiki/File:Wikimania_2013_04404.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wikimania_2013_04404.JPG/1600px-Wikimania_2013_04404.JPG)
+
 ### Room
 
 V1121
