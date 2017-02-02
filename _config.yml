@@ -7,15 +7,15 @@
 
 # Site settings
 title: Meet MET Peer Lab # ex. I m Chuan
-name: Victor Lee # ex. DONGChuan
+name: MeetMET # ex. DONGChuan
 email: specialvict@gmail.com
 location: Hong Kong # ex. Nice, France
 company: MScMET
 company_url: https://meetmet-peerlab.github.io
 github_url: https://github.com/MeetMET-PeerLab/MeetMET-PeerLab.github.io # ex. https://github.com/DONGChuan
 description: Where designer and developer meet and assist each other.
-favicon: /favicon/favicon-32x32.png # Image must be in assets/images
-teaser: logo500x300.png
+favicon: assets/images/favicon/favicon-32x32.png # Image must be in assets/images
+teaser: assets/images/logo500x300.png
 repository: MeetMET-PeerLab/MeetMET-PeerLab.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
