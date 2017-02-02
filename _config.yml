@@ -48,7 +48,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: my_disque_settings # ex. httpdongchuangithubio.disqus.com
+disque: meetmet-peerlab.disqus.com # ex. httpdongchuangithubio.disqus.com
 
 # Pagination
 paginate: 10
@@ -83,7 +83,7 @@ side_bar_repo_limit: 5 # Number of repos to show
 analytics :
   provider : google
   google :
-      tracking_id : 'tracking_id'  # ex. UA-72165600-X
+      tracking_id : 'UA-89977536-2'  # ex. UA-72165600-X
 
 
 # For about.html. Fell free to create your own!
