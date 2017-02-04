@@ -62,3 +62,17 @@ We should follow that code, and build a great culture.
 Cheers,
 
 Victor Lee
+
+## **Update**
+
+Play with Max/MSP and Kinect
+
+[Instructables tutorial](http://www.instructables.com/id/Create-Interactive-Electronic-Instruments-with-Max/?ALLSTEPS)
+
+[Synapse](http://synapsekinect.tumblr.com/)
+
+[Synapse download](http://synapsekinect.tumblr.com/post/6305020721/download)
+
+[Particle System in Max(Video)](https://www.youtube.com/watch?v=TRgX7rVgSAE&t=716s)
+
+![](assets/images/events/001/IMG_3002.JPG)
