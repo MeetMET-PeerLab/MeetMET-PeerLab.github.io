@@ -77,4 +77,4 @@ Play with Max/MSP and Kinect
 
 ![](https://meetmet-peerlab.github.io/assets/images/events/001/IMG_3002.JPG)
 
-[![Play with Max/MSP and Kinect - MeetMET-PeerLab](https://www.youtube.com/upload_thumbnail?v=S6HjqFsFVd0&t=hqdefault&ts=1486192655236)](https://www.youtube.com/watch?v=S6HjqFsFVd0)
+[![Play with Max/MSP and Kinect - MeetMET-PeerLab](http://img.youtube.com/vi/S6HjqFsFVd0/0.jpg)](https://www.youtube.com/watch?v=S6HjqFsFVd0)
