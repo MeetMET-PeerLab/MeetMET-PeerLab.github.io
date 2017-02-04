@@ -75,4 +75,4 @@ Play with Max/MSP and Kinect
 
 [Particle System in Max(Video)](https://www.youtube.com/watch?v=TRgX7rVgSAE&t=716s)
 
-![](assets/images/events/001/IMG_3002.JPG)
+![](https://meetmet-peerlab.github.io/assets/images/events/001/IMG_3002.JPG)
