@@ -5,7 +5,7 @@ date:   2017-02-19 20:10:39 +0800
 categories: peerlab events
 ---
 
-> **Swift** **Github** **Git** **MVVM*
+> **Swift** **Github** **MVVM**
 
 
 Welcome to our second peer lab event!
