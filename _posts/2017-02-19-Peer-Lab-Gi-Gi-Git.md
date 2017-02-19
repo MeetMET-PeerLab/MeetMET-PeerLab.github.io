@@ -8,6 +8,31 @@ categories: peerlab events
 > **Swift** **Github** **MVVM**
 
 
+## Update
+
+Today's Peer Lab, we're trying to work on [ManutMood](https://github.com/oaleeapp/ManutMood) project, which is an app will record one's voice and analyze it, then tell you about the emotion states you've got.
+
+We're using [Cocoapods](https://cocoapods.org/) to manage our dependencies, and help each other set up the project.
+
+Include how to use terminal to work with git and github.
+
+Besides the Swift project, we also talked about MVVM, the design pattern of iOS development,
+
+For the design patterns in iOS, here is recommended resources:
+
+- [Core iOS Application Architectural Patterns](https://developer.apple.com/videos/play/wwdc2014/224/)
+- [Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/play/wwdc2014/229/)
+
+and something about git:
+
+[git guide](http://www.bootcss.com/p/git-guide/)
+
+and terminal command
+
+[terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
+
+------
+
 Welcome to our second peer lab event!
 
 ## What is Peer Lab
@@ -65,27 +90,3 @@ We should follow that code, and build a great culture.
 Cheers,
 
 Victor Lee
-
-
-## Update
-
-Today's Peer Lab, we're trying to work on [ManutMood](https://github.com/oaleeapp/ManutMood) project, which is an app will record one's voice and analyze it, then tell you about the emotion states you've got.
-
-We're using [Cocoapods](https://cocoapods.org/) to manage our dependencies, and help each other set up the project.
-
-Include how to use terminal to work with git and github.
-
-Besides the Swift project, we also talked about MVVM, the design pattern of iOS development,
-
-For the design patterns in iOS, here is recommended resources:
-
-[Core iOS Application Architectural Patterns](https://developer.apple.com/videos/play/wwdc2014/224/)
-[Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/play/wwdc2014/229/)
-
-and something about git:
-
-[git guide](http://www.bootcss.com/p/git-guide/)
-
-and terminal command
-
-[terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
